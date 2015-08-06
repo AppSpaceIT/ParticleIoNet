@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleIoNet.Client", "ParticleIoNet.Client\ParticleIoNet.Client.csproj", "{B87183DB-841A-4441-BB7B-FD4E7E2F10FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleIoNet.Client.UnitTests", "ParticleIoNet.Client.UnitTests\ParticleIoNet.Client.UnitTests.csproj", "{5F52B7D1-60CE-443D-B1FF-F80A59DFAFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87183DB-841A-4441-BB7B-FD4E7E2F10FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87183DB-841A-4441-BB7B-FD4E7E2F10FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87183DB-841A-4441-BB7B-FD4E7E2F10FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87183DB-841A-4441-BB7B-FD4E7E2F10FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F52B7D1-60CE-443D-B1FF-F80A59DFAFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F52B7D1-60CE-443D-B1FF-F80A59DFAFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F52B7D1-60CE-443D-B1FF-F80A59DFAFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F52B7D1-60CE-443D-B1FF-F80A59DFAFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
